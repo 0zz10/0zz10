@@ -47,22 +47,9 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-
 <img align="left" alt="0zz10's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=0zz10&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0zz10&layout=compact)](https://github.com/0zz10)
-
-</details>
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/zzjdan
