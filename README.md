@@ -61,6 +61,8 @@
 
   <img align="left" alt="0zz10's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=0zz10&show_icons=true&hide_border=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/0zz10)
+
 </details>
 
 [website]: https://codeSTACKr.com
