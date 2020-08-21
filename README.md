@@ -1,18 +1,17 @@
 ### Hi there, I'm Daniel Zhou <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Growth Hacker, Machine Learning Practitioner, Multicultural Influencer, and Adventures Explorer!
+## I'm a Growth Hacker, Machine Learning Practitioner, and Adventures Explorer!
 
-- 🎓 I’m expected to graduate from [Northeastern University](https://www.khoury.northeastern.edu/) with MSc. Computer Science degree in March 2022
+- 🎓 I’m expected to graduate from [Northeastern University](https://www.khoury.northeastern.edu/program/computer-science-ms/) with MSc. Computer Science degree in March 2022
 - 💻 I’m currently immersing myself in software development
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://www.kindpng.com/picc/m/49-496199_icons-envelope-computer-mail-message-email-email-icon.png" />][email]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -52,6 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0zz10&layout=compact)](https://github.com/0zz10)
 
 [website]: https://codeSTACKr.com
+[email]: zhou.zhenj@northeastern.edu
 [twitter]: https://twitter.com/zzjdan
 [youtube]: https://youtube.com/zzjdan
 [instagram]: https://instagram.com/zzjdan
