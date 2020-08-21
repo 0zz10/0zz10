@@ -54,7 +54,7 @@
 [email]: mailto:zhou.zhenj@northeastern.edu
 [twitter]: https://twitter.com/zzjdan
 [youtube]: https://youtube.com/zzjdan
-[instagram]: https://instagram.com/zzjdan
+[instagram]: https://www.instagram.com/daniu_zzj/
 [linkedin]: https://www.linkedin.com/in/zhenjiezhou/
 [backdevplaylist]: https://www.youtube.com/watch?v=_uQrJ0TkZlc
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
