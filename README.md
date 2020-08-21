@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://www.kindpng.com/picc/m/49-496199_icons-envelope-computer-mail-message-email-email-icon.png" />][email]
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/email-2030737-1713377.png" />][email]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -51,7 +51,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0zz10&layout=compact)](https://github.com/0zz10)
 
 [website]: https://codeSTACKr.com
-[email]: zhou.zhenj@northeastern.edu
+[email]: mailto:zhou.zhenj@northeastern.edu
 [twitter]: https://twitter.com/zzjdan
 [youtube]: https://youtube.com/zzjdan
 [instagram]: https://instagram.com/zzjdan
