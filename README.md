@@ -2,7 +2,7 @@
 
 ## I'm a Growth Hacker, Machine Learning Practitioner, and Adventures Explorer!
 
-- 🎓 I’m expected to graduate from [Northeastern University](https://www.khoury.northeastern.edu/program/computer-science-ms/) with MSc. Computer Science degree in March 2022
+- 🎓 I’m expected to graduate from [Northeastern University](https://www.khoury.northeastern.edu/program/computer-science-ms/) with MSc. Computer Science degree in May 2022
 - 💻 I’m currently immersing myself in software development
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
