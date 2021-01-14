@@ -4,7 +4,7 @@
 
 - 🎓 I’m expected to graduate from [Northeastern University](https://www.khoury.northeastern.edu/program/computer-science-ms/) with MSc. Computer Science degree in May 2022
 - 💻 I’m currently immersing myself in software development
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🎯 2021 Goals: Contribute more to Open Source projects/ Internship Opportunities
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/email-2030737-1713377.png" />][email]
